@@ -33,7 +33,7 @@
                 android:id="@+id/text_inputurl"
                 android:ems="8"
                 android:inputType="textWebEditText"
-                android:text="https://www.google.com"
+                android:text="https://www.ganpatuniversity.ac.in/"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintStart_toEndOf="@id/text_weburl"
                 app:layout_constraintEnd_toStartOf="@id/button_browser"/>
@@ -129,7 +129,7 @@
                 android:id="@+id/button_camera"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Gallery"
+                android:text="Camera"
                 app:layout_constraintEnd_toEndOf="@id/button_gallery"
                 app:layout_constraintBaseline_toBaselineOf="@id/text_camera"/>
 
@@ -147,7 +147,7 @@
                 android:id="@+id/button_alarm"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Gallery"
+                android:text="Alarm"
                 app:layout_constraintEnd_toEndOf="@id/button_camera"
                 app:layout_constraintBaseline_toBaselineOf="@id/text_alarm"/>
 
